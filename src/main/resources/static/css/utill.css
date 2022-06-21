@@ -1,0 +1,35 @@
+.error {
+    color: red;
+    font-style: italic;
+}
+
+.invalid {
+    font-size: 16pt;
+    margin-top: 2px;
+    color: red;
+    font-style: italic;
+}
+
+.full-name-div input {
+    width: 595px;
+    height: 40px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+#booknow-form {
+    text-align: center;
+}
+
+.valid-form {
+    font-size: 16pt;
+    margin-top: 2px;
+    color: green;
+}
+
+#successUpdateDiv {
+    text-align: center;
+    color: lightgreen;
+}
+
