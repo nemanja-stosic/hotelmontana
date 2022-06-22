@@ -9,6 +9,8 @@ Home Page Demo Preview (less than 1 min)
 
 Copyright ©2022 All rights reserved | This template is made by [Colorlib](https://colorlib.com/).
 
+# Features
+
 # Technologies 
 
 <h3>Frontend</h3>
