@@ -11,6 +11,68 @@ Copyright ©2022 All rights reserved | This template is made by [Colorlib](https
 
 # Features
 
+<h3>Hotel Montana</h3>
+
+We can book a guest at the hotel. We need to state his / her name, check-in and check-out dates, as well as how many adults will be staying in the hotel room and how many children, and finally we need to choose which room the guest will use.
+
+![Screenshot (313)](https://user-images.githubusercontent.com/48128569/174988135-9290e70e-e45f-4a10-9fa8-f169be9a5b78.png)
+
+If necessary, we can contact the manager by sending a message.
+
+![Screenshot (314)](https://user-images.githubusercontent.com/48128569/174988746-961f8a82-9896-402e-9d8c-6ee7d747c2e4.png)
+
+<h3>Administration</h3>
+
+Clicking on the "Manage a Guest" button will display the login form and when you enter the correct username and password (username: admin, password: admin), a list of guests staying at the hotel will be displayed.Clicking on the "Manage a Guest" button will display the login form and when you enter the correct username and password (username: admin, password: admin), a list of guests staying at the hotel will be displayed.
+
+![Screenshot (316)](https://user-images.githubusercontent.com/48128569/174990210-935fa728-edde-4970-b0b0-6501723207bb.png)
+
+By clicking on update we can update the guest, for example, Nick. We will update the check-out date and the number of adults in Nick's room.
+
+![Screenshot (317)](https://user-images.githubusercontent.com/48128569/174990910-c7704174-53a1-4de7-9f2f-7f8a80389bf9.png)
+
+Here, we can see that the update was successful.
+
+![Screenshot (318)](https://user-images.githubusercontent.com/48128569/174991121-cada9d5c-2ca1-4fb6-b367-6ead19a623ce.png)
+
+By clicking on the bill, we can enter payment information for the guest when he wants to check out of the hotel. Let's enter that information for Nick.
+
+![Screenshot (319)](https://user-images.githubusercontent.com/48128569/174991570-3e1c8357-9e90-4bad-9d52-1c52cd90d755.png)
+
+Here we can see that the transaction was successful.
+
+![Screenshot (320)](https://user-images.githubusercontent.com/48128569/174991842-92927622-16f3-4ab5-b716-1d1661bf54c0.png)
+
+By clicking on the "guests archive" on the left we can see the list of all guests who have ever checked into the hotel. Nick is there because he is currently the only guest who checked out of the hotel.
+
+![Screenshot (322)](https://user-images.githubusercontent.com/48128569/174992347-d0c30f92-1115-41f7-9f6f-c14aa1f7c015.png)
+
+<h3>Validation</h3>
+
+Validation for each form was processed. Login validation, empty fields:
+
+![Screenshot (326)](https://user-images.githubusercontent.com/48128569/174993175-3b409e9c-5d51-4090-923b-17697424846f.png)
+
+Incorrect login:
+
+![Screenshot (327)](https://user-images.githubusercontent.com/48128569/174993200-f4ee0fc8-a597-49c4-b1be-d60e74e56194.png)
+
+If not all data are entered when booking a guest:
+
+![Screenshot (328)](https://user-images.githubusercontent.com/48128569/174993940-2784d32d-774d-4a63-8850-7f21498c84c6.png)
+
+During the guest information update, if we do not enter any information, the update will be canceled: 
+
+![Screenshot (323)](https://user-images.githubusercontent.com/48128569/174994331-741a7ef9-8f83-4f21-bc4c-2b55ed0b9e77.png)
+
+If we try to bill some guests before the check-out date expires, we will receive a message that we need to update their check-out date first:
+
+![Screenshot (324)](https://user-images.githubusercontent.com/48128569/174994791-624ca8be-285c-4f5b-ab20-a561ad6a39ec.png)
+
+If we do not enter all the information when billing the guest, we will receive the appropriate message:
+
+![Screenshot (325)](https://user-images.githubusercontent.com/48128569/174995296-82a388ed-b601-4903-91f5-9138e1d9adf8.png)
+
 # Technologies 
 
 <h3>Frontend</h3>
