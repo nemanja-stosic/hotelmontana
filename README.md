@@ -19,3 +19,7 @@ Also, this was an opportunity to see what a real life project looks like and how
 I changed HTML code into JSP syntax, significantly changed the original code, and wrote a little CSS and javascript as well. Also, I made use of spring JSP tag libraries and the expression language (EL).
 
 <h3>Backend</h3>
+
+For background development, I used Java, Spring Boot, and Hibernate. The design patterns used to develop this application are the Data Access Object (DAO) which provides an abstract interface for the MySQL database, the factory design pattern that forwards us objects of a given type, and the Spring MVC.
+
+For project management I used Maven and for database I used MySQL.
