@@ -87,3 +87,7 @@ I changed HTML code into JSP syntax, significantly changed the original code, an
 For background development, I used Java, Spring Boot, and Hibernate. The design patterns used to develop this application are the Data Access Object (DAO) which provides an abstract interface for the MySQL database, the factory design pattern that forwards us objects of a given type, and the Spring MVC.
 
 For project management I used Maven and for database I used MySQL.
+
+# Conclusion
+
+The main goal of this project was to improve and perfect my Spring Boot skills. I was given the opportunity to work with all kinds of situations involving HTTP methods such as POST + GET + Redirect to get the right result, GET + POST, etc. I also learned a good approach for organizing frontend code for JSP, CSS, and JavaScript.
