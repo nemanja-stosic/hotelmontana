@@ -23,7 +23,7 @@ If necessary, we can contact the manager by sending a message.
 
 <h3>Administration</h3>
 
-Clicking on the "Manage a Guest" button will display the login form and when you enter the correct username and password (username: admin, password: admin), a list of guests staying at the hotel will be displayed.Clicking on the "Manage a Guest" button will display the login form and when you enter the correct username and password (username: admin, password: admin), a list of guests staying at the hotel will be displayed.
+Clicking on the "Manage a Guest" button will display the login form and when you enter the correct username and password (username: admin, password: admin), a list of guests staying at the hotel will be displayed.
 
 ![Screenshot (316)](https://user-images.githubusercontent.com/48128569/174990210-935fa728-edde-4970-b0b0-6501723207bb.png)
 
